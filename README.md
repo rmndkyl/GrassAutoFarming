@@ -1,10 +1,10 @@
 # BOT GRASS AUTO FARMING
 
 # Register
-- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
+- https://app.getgrass.io/register?referralCode=831MjGlEBIZy9KI
 
 # Command
-- git clone https://github.com/AirDropFamilyIDN/GrassAutoFarming.git
+- git clone https://github.com/rmndkyl/GrassAutoFarming.git
 - cd GrassAutoFarming
 - pip install -r requirements.txt
 - python run_http.py
